@@ -1,2 +1,1 @@
-# ensnames
-top 100 ENS names via GRT the graph
+A react.js search bar that uses the Graph and ENS subgraph to query ENS domain names via typing and searching
